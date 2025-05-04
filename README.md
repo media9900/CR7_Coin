@@ -1,4 +1,4 @@
-logo_v2.png.
+
 اسم العملة: CR7 Coin
 رمز العملة: CR7
 الشبكة: BNB Smart Chain
